@@ -1,0 +1,136 @@
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\bin\Debug\RoX os.exe.config
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\bin\Debug\RoX os.exe
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\bin\Debug\RoX os.pdb
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\bin\Debug\RoX os.xml
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form1.resources
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Resources.resources
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX os.vbproj.GenerateResource.Cache
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX os.exe
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX os.xml
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX os.pdb
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form2.resources
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form3.resources
+c:\users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form4.resources
+Q:\RoX os\RoX os\bin\Debug\RoX os.exe.config
+Q:\RoX os\RoX os\obj\Debug\RoX os.exe
+Q:\RoX os\RoX os\obj\Debug\RoX os.xml
+Q:\RoX os\RoX os\obj\Debug\RoX os.pdb
+C:\Users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.form5.resources
+C:\Users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form7.resources
+C:\Users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.calculator.resources
+C:\Users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form8.resources
+C:\Users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form10.resources
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.form9.resources
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form11.resources
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form13.resources
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form14.resources
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form15.resources
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form16.resources
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\obj\Debug\Interop.WMPLib.dll
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\bin\Debug\Interop.WMPLib.dll
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX os.vbproj.ResolveComReference.cache
+C:\Users\sauga\OneDrive\Documents\Visual Studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form17.resources
+C:\Users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form18.resources
+C:\Users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form19.resources
+C:\Users\sauga\onedrive\documents\visual studio 2012\Projects\RoX os\RoX os\obj\Debug\RoX_os.Form20.resources
+F:\Apps\RoX os\RoX os\bin\Debug\RoX os.exe.config
+F:\Apps\RoX os\RoX os\obj\Debug\Interop.WMPLib.dll
+F:\Apps\RoX os\RoX os\obj\Debug\AxInterop.WMPLib.dll
+F:\Apps\RoX os\RoX os\obj\Debug\RoX os.vbproj.ResolveComReference.cache
+F:\Apps\RoX os\RoX os\obj\Debug\RoX os.exe
+F:\Apps\RoX os\RoX os\obj\Debug\RoX os.xml
+F:\Apps\RoX os\RoX os\obj\Debug\RoX os.pdb
+F:\Apps\RoX os\RoX os\bin\Debug\RoX os.exe
+F:\Apps\RoX os\RoX os\bin\Debug\RoX os.pdb
+F:\Apps\RoX os\RoX os\bin\Debug\RoX os.xml
+F:\Apps\RoX os\RoX os\bin\Debug\Interop.WMPLib.dll
+F:\Apps\RoX os\RoX os\bin\Debug\AxInterop.WMPLib.dll
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form1.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form10.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form11.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form13.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form14.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form15.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form16.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form17.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form18.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form19.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form20.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form2.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form3.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form4.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form5.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.calculator.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form7.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Form8.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.form9.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX_os.Resources.resources
+F:\Apps\RoX os\RoX os\obj\Debug\RoX os.vbproj.GenerateResource.Cache
+E:\RoX os\RoX os\bin\Debug\RoX os.exe.config
+E:\RoX os\RoX os\obj\Debug\Interop.WMPLib.dll
+E:\RoX os\RoX os\obj\Debug\AxInterop.WMPLib.dll
+E:\RoX os\RoX os\obj\Debug\RoX os.vbproj.ResolveComReference.cache
+E:\RoX os\RoX os\obj\Debug\RoX os.exe
+E:\RoX os\RoX os\obj\Debug\RoX os.xml
+E:\RoX os\RoX os\obj\Debug\RoX os.pdb
+E:\RoX os\RoX os\bin\Debug\RoX os.exe
+E:\RoX os\RoX os\bin\Debug\RoX os.pdb
+E:\RoX os\RoX os\bin\Debug\RoX os.xml
+E:\RoX os\RoX os\bin\Debug\Interop.WMPLib.dll
+E:\RoX os\RoX os\bin\Debug\AxInterop.WMPLib.dll
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form1.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form10.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form11.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form13.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form14.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form15.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form16.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form17.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form18.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form19.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form20.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form2.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form3.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form4.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form5.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.calculator.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form7.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Form8.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.form9.resources
+E:\RoX os\RoX os\obj\Debug\RoX_os.Resources.resources
+E:\RoX os\RoX os\obj\Debug\RoX os.vbproj.GenerateResource.Cache
+E:\Apps\IT CLUB\RoX os\RoX os\bin\Debug\RoX os.exe.config
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\Interop.WMPLib.dll
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\AxInterop.WMPLib.dll
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX os.vbproj.ResolveComReference.cache
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX os.exe
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX os.xml
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX os.pdb
+E:\Apps\IT CLUB\RoX os\RoX os\bin\Debug\RoX os.exe
+E:\Apps\IT CLUB\RoX os\RoX os\bin\Debug\RoX os.pdb
+E:\Apps\IT CLUB\RoX os\RoX os\bin\Debug\RoX os.xml
+E:\Apps\IT CLUB\RoX os\RoX os\bin\Debug\Interop.WMPLib.dll
+E:\Apps\IT CLUB\RoX os\RoX os\bin\Debug\AxInterop.WMPLib.dll
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form1.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form10.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form11.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form13.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form14.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form15.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form16.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form17.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form18.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form19.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form20.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form2.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form3.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form4.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form5.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.calculator.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form7.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Form8.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.form9.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX_os.Resources.resources
+E:\Apps\IT CLUB\RoX os\RoX os\obj\Debug\RoX os.vbproj.GenerateResource.Cache
